@@ -1967,7 +1967,7 @@
     <string name="androidx_startup" translatable="false">androidx.startup</string>
     <string name="app_name">pratica2-pdm</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="arthur_gon_alves_reis">Arthur Gonçalves Reis</string>
+    <string name="arthur_gon_alves_reis">Arthur Gonçalves Reis 06/03/2026</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string description="A description of an accessibility action to collapse the bottom sheet [CHAR LIMIT=NONE]" name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
     <string description="A description of an accessibility action to expand the bottom sheet [CHAR LIMIT=NONE]" name="bottomsheet_action_expand">Expand the bottom sheet</string>

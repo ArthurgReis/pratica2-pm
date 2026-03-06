@@ -3,7 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">pratica2-pdm</string>
-    <string name="arthur_gon_alves_reis">Arthur Gonçalves Reis</string>
+    <string name="arthur_gon_alves_reis">Arthur Gonçalves Reis 06/03/2026</string>
     <string name="clique_aqui">Clique aqui</string>
     <style name="Base.Theme.Pratica2pdm" parent="Theme.Material3.DayNight.NoActionBar">
         
