@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonClique
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string arthur_gon_alves_reis
+string clique_aqui
+style Base.Theme.Pratica2pdm
+style Theme.Pratica2pdm
+xml backup_rules
+xml data_extraction_rules

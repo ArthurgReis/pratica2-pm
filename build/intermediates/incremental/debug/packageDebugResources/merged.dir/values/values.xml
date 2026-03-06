@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">pratica2-pdm</string>
+    <string name="arthur_gon_alves_reis">Arthur Gonçalves Reis</string>
+    <string name="clique_aqui">Clique aqui</string>
+    <style name="Base.Theme.Pratica2pdm" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Pratica2pdm" parent="Base.Theme.Pratica2pdm"/>
+</resources>
